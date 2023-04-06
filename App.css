@@ -14,7 +14,7 @@ main{
     color: white;
 }
 body{
-    /* background-image: url(https://images.unsplash.com/photo-1504253163759-c23fccaebb55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80); */
+    
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -34,10 +34,10 @@ header{
 
 #App_Name{
     font-weight: 700;
-    font-size: 18px;
+    font-size: 30px;
 }
 #App_Name span{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 800;
     color: rgb(151, 210, 57);
 }
